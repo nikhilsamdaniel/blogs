@@ -49,7 +49,7 @@ In summary this case study showcases the advantages of utilizing the Chain of Re
 
 ### GitHub Repository Link
 
-Check out the [Chain of Responsibility Case Study Repository](https://github.com/your-username/Chain-of-Responsibility-CaseStudy) for the complete code and documentation.
+Check out the [Chain of Responsibility Case Study Repository](https://github.com/nikhilsamdaniel/blogs/tree/chain-of-responsibility-case-study) for the complete code and documentation.
 
 ## References
 
